@@ -33,6 +33,7 @@ public class Event {
                 "id=" + id +
                 ", msg='" + msg + '\'' +
                 ", data=" + dateFormat.format(date) +
-                '}';
+                '}' +
+                '\n';
     }
 }

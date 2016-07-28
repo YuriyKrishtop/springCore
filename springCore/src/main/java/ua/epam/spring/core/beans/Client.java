@@ -1,8 +1,8 @@
+package ua.epam.spring.core.beans;
+
 /**
  * Created by Iurii_Kryshtop on 7/25/2016.
  */
-
-package ua.epam.spring.core.beans;
 
 public class Client {
 

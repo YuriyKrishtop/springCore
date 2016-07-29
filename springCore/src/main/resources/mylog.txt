@@ -1,5 +1,2 @@
-Event{id=70336, msg='Some event for user John Smith', data=Jul 28, 2016 5:00:38 PM}
-Event{id=47459, msg='Some event for user 2', data=Jul 28, 2016 5:00:38 PM}
-Event{id=47459, msg='Some event for user 3', data=Jul 28, 2016 5:00:38 PM}
-Event{id=55085, msg='Some event for user 4', data=Jul 28, 2016 5:00:38 PM}
-Event{id=48327, msg='Some event for user 5', data=Jul 28, 2016 5:00:38 PM}
+Event{id=9960, msg='Some event for user 3', data=Jul 29, 2016 4:11:45 PM}
+Event{id=37859, msg='Some event for user 5', data=Jul 29, 2016 4:11:45 PM}
